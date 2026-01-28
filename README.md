@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Network+%E2%80%94+Scanning+Script" alt="Network — Scanning Script">
 </p>
 
-# NetworkScanning
+# Network-Scanning
 
 NetworkScanning is a fast, multi-threaded network enumeration tool written in Python, designed for learning, internal security assessments, and offensive security practice.
 
